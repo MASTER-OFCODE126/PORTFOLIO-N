@@ -1,5 +1,3 @@
-This README.md is tailored to your specific project structure, featuring the Next.js 16 (Turbopack) environment, Tailwind v4 styling, and the React Router integration you have implemented.
-
 Modern Developer Portfolio
 A high-performance, visually stunning portfolio built with Next.js 16, Tailwind CSS v4, and Framer Motion. This project showcases a clean "Creative Developer & Designer" aesthetic with smooth scroll animations and a fully responsive design.
 
