@@ -7,7 +7,7 @@ import { ExternalLink, Github } from "lucide-react";
 import project1 from "public/assets/project-1.png";
 import project2 from "public/assets/project-2.png";
 import project3 from "public/assets/project-3.png";
-import project4 from "public/assets/project-4.jpg";
+import project4 from "public/assets/project-4.png";
 
 const projects = [
   {
@@ -42,14 +42,14 @@ const projects = [
     github: "https://github.com/MASTER-OFCODE126/PRESENTATION-ZX",
   },
   {
-    title: "Luxury Brand Identity",
+    title: "3D ANIMATED DESIGN",
     category: "Branding",
     description:
-      "Complete brand identity design for a premium fashion label ",
+      "Interactive, shader-driven visual experience inspired by modern creative studios ",
     image: project4,
-    tags: ["Figma", "Illustrator", "Branding"],
-    link: "#",
-    github: "#",
+    tags: ["React", "THREE JS", "React-3-Fiber"],
+    link: "https://interlace-mu.vercel.app/",
+    github: "https://github.com/MASTER-OFCODE126/INTERLACE",
   },
 ];
 
